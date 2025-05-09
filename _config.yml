@@ -28,6 +28,7 @@ github_username:  dnsos
 
 # Build settings
 theme: minima
+permalink: pretty
 plugins:
   - jekyll-feed
 
