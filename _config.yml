@@ -27,7 +27,7 @@ url: "https://til.dnsos.de"
 github_username:  dnsos
 
 # Build settings
-theme: minima
+# theme: minima
 permalink: pretty
 plugins:
   - jekyll-feed
