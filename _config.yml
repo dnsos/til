@@ -22,7 +22,7 @@ title: TIL by dnsos
 email: dennis@dnsos.de
 description: >- # this means to ignore newlines until "baseurl:"
   Collection of TIL (Today I Learned) notes by dnsos. Mostly focussed on the Ruby and Rails ecosystem.
-baseurl: "/til" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://til.dnsos.de"
 github_username:  dnsos
 
