@@ -11,3 +11,5 @@ If that server hosts other services (such as a Kamal database accessory), we sho
 https://guides.rubyonrails.org/tuning_performance_for_deployment.html#puma
 
 Note that 1 vCPU does not necessarily mean 1 CPU with some cloud hosters, so keep that in mind when tuning for production.
+
+WEB_CONCURRENCY=auto might be interesting, but treat carefully.
